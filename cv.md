@@ -44,7 +44,7 @@ Java Software Engineer
 
 ##### PROFESSIONAL EXPERIENCE
 
-**1) Java Software Engineer** 																	**ScienceSoft. Minsk, Belarus.**
+**1) Java Software Engineer** 																				**ScienceSoft. Minsk, Belarus.**
 
 *March 2020 - Present*
 
@@ -56,7 +56,7 @@ A backend development team member. A project I've been working on is a central b
 
 
 
-**2) Java Developer** 							**NEXMO solutions GmbH & Co. KG. Hamburg Area, Germany.** 
+**2) Java Developer** 								**NEXMO solutions GmbH & Co. KG. Hamburg Area, Germany.** 
 
 *September 2019 - February 2020*
 
@@ -68,7 +68,7 @@ A core development team member. A service I've been working on is a central api 
 
 
 
-**3) Java Developer**						**IBA Group, Information Systems department. Minsk, Belarus.**
+**3) Java Developer**								**IBA Group, Information Systems department. Minsk, Belarus.**
 
 *August 2017 – August 2019*
 
@@ -76,9 +76,9 @@ A core development team member. A service I've been working on is a central api 
 
   Development of e-learning system which allows to create and maintain various learning courses as a manager and a user is able to enroll on a chosen course. The user is able to track the state of the courses and based on the results is offered to try something new. Also the system allows to participate in a course in collaborative mode.
 
- <u>Responsibilities:</u>	development, testing and integration of various components.
+  <u>Responsibilities:</u>	development, testing and integration of various components.
 
- <u>Environment:</u>		 Java/J2EE, Python 3, Spring Boot, IBM Cloud, IBM NoSQL Cloudant, DB2, REST API, Swagger, ICal4J
+  <u>Environment:</u>		 Java/J2EE, Python 3, Spring Boot, IBM Cloud, IBM NoSQL Cloudant, DB2, REST API, Swagger, ICal4J
 
  
 
@@ -86,22 +86,22 @@ A core development team member. A service I've been working on is a central api 
 
   Development of online service, which allows customers to create various events. As a part of the core components developed a multithread jobs handler and a service, which allows to load icons for events/sessions, store them in the database and get access to them. Developed email-notification system, which allows sending multiple invitations to various events and adding them to the calendar (IBM Notes, Google Calendar, Outlook, etc.).
 
- <u>Responsibilities:</u>	development and integration of core components. 
+  <u>Responsibilities:</u>	development and integration of core components. 
 
- <u>Environment:</u>		 Java/J2EE, Spring, Spring Boot, IBM Bluemix, IBM NoSQL Cloudant, REST API, Swagger, ICal4J
+  <u>Environment:</u>		 Java/J2EE, Spring, Spring Boot, IBM Bluemix, IBM NoSQL Cloudant, REST API, Swagger, ICal4J
 
 
 
 - **FileNet Developer**
   Hierarchical storage system. The goal was to develop a FileNet Content Manager application, which allows to enter new documents to the system and according to their attributes save them to the proper system component. In addition, the application provides capabilities for complex search of documents by attributes and generate report to a XLS file.
 
- <u>Responsibilities:</u>	development and integration of core components. 
+  <u>Responsibilities:</u>	development and integration of core components. 
 
- <u>Environment:</u>		 Java, FileNet API.
+  <u>Environment:</u>		 Java, FileNet API.
 
 
 
-**4) Java Developer**																**Netcracker Technology. Minsk, Belarus.**
+**4) Java Developer**																		**Netcracker Technology. Minsk, Belarus.**
 
 *March 2017 – June 2017*
 
@@ -110,3 +110,27 @@ The main goal of the project was to develop online restaurant system to manage o
 <u>Responsibilities:</u>	software/ DB architecture. Development and integration of core components.
 
 <u>Environment:</u>		 Java/J2EE, Spring, Spring Boot, Spring Security, MySQL, REST API, Swagger.
+
+
+
+**5) Java/Python Developer** 																						**BSUIR. Minsk, Belarus.**
+
+*June 2014 – June 2020*
+
+- **Python Developer. Master diploma project.**
+
+ The main goal of the project was to develop a system for automation of a process of detecting free parking slots based on a live-stream video using deep learning with an ability to send notifications to an end user when a parking slot becomes free. MASK-R CNN was used as a base convolutional neural network. COCO dataset was used in order to train model. Reinforcement learning technique was used in order to achieve better recognition results for the chosen recognition objects. As a end-user platform  Telegram messenger was chosen. OpenCV library was chosen to handle video frames and other different routine. A telegram bot application was developed for receiving notifications from the recognition module. The result architecture contained 3 main modules: the recognition module, the logging module, the notification module. The result system is able to detect the following transport objects: a motorcycle, a car, a truck. The result achieved recognition accuracy is approximately 95%.
+
+ <u>Responsibilities:</u>	Development and testing of the overall system. 
+
+ <u>Environment:</u>		 Python 3.6, numpy, pandas, scikit-learn, opencv, telegram bot api   
+
+ 
+
+- **Java developer. Bachelor diploma project.**
+
+ The main goal of the project was to develop online-service for automation of selection of industrial equipment with possibility of generation PDF-reports. The service is built on Java/Spring stack. The application allows to store semi-structured information and create complex search queries to the data-storage. Models can be used for generating reports in PDF format. 
+
+ <u>Responsibilities:</u>	software/ DB architecture. Development and integration of core components. 
+
+ <u>Environment:</u>		 Java/J2EE, Spring, Spring Boot, CouchDB, REST API, Swagger 
