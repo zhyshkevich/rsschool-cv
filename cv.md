@@ -7,7 +7,7 @@ Java Software Engineer
 ##### PERSONAL/CONTACT INFORMATION
 
 - Date of birth – 29.03.1997 – 23 y.o.
-- Phone | Telegram | WhatsApp | Viber: +375296814342
+- Phone - Telegram - WhatsApp - Viber: +375296814342
 - Email: [sergeyzhyshkevich@gmail.com](mailto:sergeyzhyshkevich@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/sergey-zhyshkevich/
 - Github: https://github.com/zhyshkevich
