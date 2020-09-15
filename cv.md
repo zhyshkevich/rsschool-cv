@@ -1,10 +1,10 @@
-### Siarhei Zhyshkevich
+# Siarhei Zhyshkevich
 
 Java Software Engineer
 
 ---
 
-##### PERSONAL/CONTACT INFORMATION
+#### PERSONAL/CONTACT INFORMATION
 
 - Date of birth – 29.03.1997 – 23 y.o.
 - Phone, Telegram, WhatsApp, Viber: +375296814342
@@ -14,7 +14,7 @@ Java Software Engineer
 
 ---
 
-##### PROFESSIONAL PROFILE
+#### PROFESSIONAL PROFILE
 
 - Java developer with over three and a half years of experience in software application development. 
 - Good understanding of all the stages of software development process.
@@ -23,7 +23,7 @@ Java Software Engineer
 
 ---
 
-##### SKILLS SUMMARY
+#### SKILLS SUMMARY
 
 | Programming Languages:              | Java 8+, Python, JavaScript, C/C++, SQL                      |
 | :---------------------------------- | :----------------------------------------------------------- |
@@ -36,13 +36,13 @@ Java Software Engineer
 
 ---
 
-##### CERTIFICATIONS
+#### CERTIFICATIONS
 
 - NetCracker Certified Java Web Developer
 
 ---
 
-##### PROFESSIONAL EXPERIENCE
+#### PROFESSIONAL EXPERIENCE
 
 **1) Java Software Engineer**  - **<u>ScienceSoft. Minsk, Belarus.</u>**
 
@@ -137,7 +137,7 @@ The main goal of the project was to develop online restaurant system to manage o
 
 ---
 
-##### EDUCATION and TRAINING
+#### EDUCATION and TRAINING
 
 - Belarusian State University of Informatics and Radioelectronics (Faculty of Computer Systems and Networks) – **Bachelor** (*2014 - 2018*) and **Master** (*2018 - 2020*).
 - Training course “Java Web development”, NetCracker, Minsk
