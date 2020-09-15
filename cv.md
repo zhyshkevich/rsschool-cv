@@ -25,7 +25,7 @@
 
 #### SKILLS SUMMARY
 
-| Programming Languages:              | Java 8+, Python, JavaScript, C/C++, SQL                      |
+| Programming Languages:              | Java 8+, Python, C/C++, SQL                                  |
 | :---------------------------------- | :----------------------------------------------------------- |
 | Web Technologies:                   | Java EE, Spring, Spring Boot, JAX-RS, REST, Django, Swagger, IBM Cloud, HTML, CSS, JSON, XML, Basic knowledge of Docker/Kubernetes |
 | Application Servers:                | IBM WebSphere, Apache Tomcat, Jetty, Liberty server          |
