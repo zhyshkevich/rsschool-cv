@@ -44,7 +44,7 @@ Java Software Engineer
 
 ##### PROFESSIONAL EXPERIENCE
 
-**1) Java Software Engineer** 																				**ScienceSoft. Minsk, Belarus.**
+**1) Java Software Engineer**  - **<u>ScienceSoft. Minsk, Belarus.</u>**
 
 *March 2020 - Present*
 
@@ -56,7 +56,7 @@ A backend development team member. A project I've been working on is a central b
 
 
 
-**2) Java Developer** 								**NEXMO solutions GmbH & Co. KG. Hamburg Area, Germany.** 
+**2) Java Developer**  - **<u>NEXMO solutions GmbH & Co. KG. Hamburg Area, Germany.</u>** 
 
 *September 2019 - February 2020*
 
@@ -68,7 +68,7 @@ A core development team member. A service I've been working on is a central api 
 
 
 
-**3) Java Developer**								**IBA Group, Information Systems department. Minsk, Belarus.**
+**3) Java Developer** - **<u>IBA Group, Information Systems department. Minsk, Belarus.</u>**
 
 *August 2017 – August 2019*
 
@@ -101,7 +101,7 @@ A core development team member. A service I've been working on is a central api 
 
 
 
-**4) Java Developer**																		**Netcracker Technology. Minsk, Belarus.**
+**4) Java Developer** - **<u>Netcracker Technology. Minsk, Belarus.</u>**
 
 *March 2017 – June 2017*
 
@@ -113,7 +113,7 @@ The main goal of the project was to develop online restaurant system to manage o
 
 
 
-**5) Java/Python Developer** 																						**BSUIR. Minsk, Belarus.**
+**5) Java/Python Developer**  - **<u>BSUIR. Minsk, Belarus.</u>**
 
 *June 2014 – June 2020*
 
@@ -134,3 +134,12 @@ The main goal of the project was to develop online restaurant system to manage o
  <u>Responsibilities:</u>	software/ DB architecture. Development and integration of core components. 
 
  <u>Environment:</u>		 Java/J2EE, Spring, Spring Boot, CouchDB, REST API, Swagger 
+
+---
+
+##### EDUCATION and TRAINING
+
+- Belarusian State University of Informatics and Radioelectronics (Faculty of Computer Systems and Networks) – **Bachelor** (*2014 - 2018*) and **Master** (*2018 - 2020*).
+- Training course “Java Web development”, NetCracker, Minsk
+- “Introduction to machine learning” by Andrew Ng, Coursera
+- “Algorithms parts 1 and 2” by Princeton University, Coursera
